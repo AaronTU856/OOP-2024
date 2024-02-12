@@ -9,6 +9,7 @@ public class Arrays extends PApplet
 	{
 		size(500, 500);
 
+		String[] months = {"JAN", "FEB", "MAR"};
 		
 	}
 
